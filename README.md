@@ -7,7 +7,7 @@
 
 ---
 
-### 
+
 🔭 Current Pursuit: I am currently pursuing a Master's degree in Data Science from George Washington University. This advanced program is honing my skills in data analysis, machine learning, and statistical modeling, preparing me to tackle real-world data challenges.
 
 🌱 Passion for Data: I am deeply dedicated to bringing meaning to data. My mission is to uncover insights from complex datasets, transforming raw information into actionable intelligence. I believe in the power of data to drive informed decision-making and innovation.
@@ -17,8 +17,8 @@
 
 ---
 
-## 💻 Skills &nbsp;
-<h4> Languages </h4>
+## 💻 Skills &nbsp Languages;
+
 <span> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-1D1209?style=for-the-badge&logo=sql&logoColor=white" />
-</span>
+
 <h4> Frameworks </h4>
 <span>
 	<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
@@ -39,7 +39,7 @@
 	<img src="https://img.shields.io/badge/Matplotlib-%23FF6F00.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
  	
 
-</span>
+
 <h4> Softwares </h4>
 <span>
   
@@ -47,19 +47,19 @@
  <img src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Tableau-7AA037?style=for-the-badge&logo=tableau&logoColor=white">
   
-</span>
+
 <h4> IDE </h4>
 <span>
 	<img src="https://img.shields.io/badge/pycharm-15A42D.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /> 
 	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 	<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-</span>
+
 <h4> Operating System </h4>
 <span>
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</span>
+
 
 ---
 ## 📊 Stats &nbsp;
@@ -78,7 +78,7 @@
 	<a href="https://www.linkedin.com/in/tanmay-ambegaokar/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	<a href="mailto:tanmayambegaokar@gmail.com?subject=Hello%20Tanmay" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-</p>
+
  
 
 
