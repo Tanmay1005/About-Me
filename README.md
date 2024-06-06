@@ -1,12 +1,10 @@
-<h1 align="center">Hey, I'm Tanmay! 
-</h1>
-
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Developer;;AI%20|%20ML%20|%20DS;&center=true&width=380&height=45"></a><br>
 </p>
 
 ---
 
+## About me
 
 🔭 Current Pursuit: I am currently pursuing a Master's degree in Data Science from George Washington University. This advanced program is honing my skills in data analysis, machine learning, and statistical modeling, preparing me to tackle real-world data challenges.
 
@@ -17,8 +15,9 @@
 
 ---
 
-## 💻 Skills &nbsp Languages;
+## 💻 Skills
 
+<h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   
@@ -65,8 +64,9 @@
 ## 📊 Stats &nbsp;
 
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tanmay1005&show_icons=true&count_private=true&theme=tokyonight" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay1005&theme=tokyonight" />
+	<img width="48%" height="50%" src="https://github-readme-stats.vercel.app/api?username=Tanmay1005&show_icons=true&count_private=true&theme=tokyonight" />
+	
+   <img width="48%" height="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay1005&theme=tokyonight" />
 	<br><br>
 	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay1005&hide=html,css,javascript&theme=tokyonight&layout=compact" />
 </p>
