@@ -8,7 +8,7 @@
 
 👯 Expertise: I specialize in analyzing and visualizing complex data. With a keen eye for detail and a strong foundation in data science principles, I am adept at creating clear and compelling visualizations that tell the story behind the numbers. My analytical skills enable me to decipher patterns and trends, providing valuable insights that support strategic planning and operational efficiency.
 
-Portfolio link : https://tanmay1005.github.io/tanmay-portfolio/
+ Portfolio link : https://tanmay1005.github.io/tanmay-portfolio/
 ---
 
 ## 💻 Skills
