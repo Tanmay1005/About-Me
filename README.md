@@ -1,18 +1,14 @@
-<p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Developer;;AI%20|%20ML%20|%20DS;&center=true&width=380&height=45"></a><br>
-</p>
 
----
 
 ## About me
 
 🔭 Current Pursuit: I am currently pursuing a Master's degree in Data Science from George Washington University. This advanced program is honing my skills in data analysis, machine learning, and statistical modeling, preparing me to tackle real-world data challenges.
 
-🌱 Passion for Data: I am deeply dedicated to bringing meaning to data. My mission is to uncover insights from complex datasets, transforming raw information into actionable intelligence. I believe in the power of data to drive informed decision-making and innovation.
+🌱 Passion for Data: I am deeply dedicated to bringing meaning to data. I aim to uncover insights from complex datasets, transforming raw information into actionable intelligence. I believe in the power of data to drive informed decision-making and innovation.
 
 👯 Expertise: I specialize in analyzing and visualizing complex data. With a keen eye for detail and a strong foundation in data science principles, I am adept at creating clear and compelling visualizations that tell the story behind the numbers. My analytical skills enable me to decipher patterns and trends, providing valuable insights that support strategic planning and operational efficiency.
 
-
+Portfolio link : https://tanmay1005.github.io/tanmay-portfolio/
 ---
 
 ## 💻 Skills
